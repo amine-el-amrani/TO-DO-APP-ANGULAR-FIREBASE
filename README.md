@@ -2,5 +2,9 @@
 
 ## To run the project 
 
-npm install
-ng serve -o
+1. Install project dependencies:
+    npm install
+
+
+2. Start the development server and open the app in your browser:
+    ng serve -o
