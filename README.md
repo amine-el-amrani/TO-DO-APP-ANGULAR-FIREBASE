@@ -1,4 +1,4 @@
-# Angular 14 To-Do App with Firebase
+# To-Do App with Angular & Firebase
 
 ## To run the project 
 
